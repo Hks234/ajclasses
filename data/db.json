@@ -1,0 +1,57 @@
+{
+  "enquiries": [
+    {
+      "id": "enq-1794385589893-798",
+      "fullName": "Simran Kaur",
+      "mobile": "9876543210",
+      "email": "simran.cfa@gmail.com",
+      "course": "CFA (Chartered Financial Analyst)",
+      "educationLevel": "Commerce Graduate",
+      "message": "Looking for weekend batch.",
+      "status": "new",
+      "createdAt": "2026-11-11T08:26:29.893Z"
+    },
+    {
+      "id": "enq-1",
+      "fullName": "Rahul Sharma",
+      "mobile": "9825123456",
+      "email": "rahul.ca26@gmail.com",
+      "course": "CA Intermediate",
+      "educationLevel": "CA Foundation Cleared",
+      "message": "Looking for both groups coaching starting next month. Need information on test series and scholarship.",
+      "status": "contacted",
+      "createdAt": "2026-11-09T08:26:16.975Z"
+    },
+    {
+      "id": "enq-2",
+      "fullName": "Pooja Patel",
+      "mobile": "9723456789",
+      "email": "pooja.patel@outlook.com",
+      "course": "CS Executive",
+      "educationLevel": "CSEET Cleared",
+      "message": "Inquiring about face-to-face weekend batch timing at Surat Kabootar Circle campus.",
+      "status": "new",
+      "createdAt": "2026-11-11T02:26:16.975Z"
+    },
+    {
+      "id": "enq-3",
+      "fullName": "Aniket Mehta",
+      "mobile": "9428012345",
+      "email": "aniket.cma@yahoo.com",
+      "course": "CMA Foundation",
+      "educationLevel": "12th Commerce",
+      "message": "Want to know about fee structure and free-of-cost education opportunities.",
+      "status": "new",
+      "createdAt": "2026-11-10T14:26:16.975Z"
+    }
+  ],
+  "settings": {
+    "founderMessage": "Professional exams are not a test of mere memory—they are a test of resilience, conceptual clarity, and structured discipline. At AJ Classes, our mission is to eliminate fear, instill unshakeable confidence, and guide every student to the pinnacle of professional excellence.",
+    "announcementBanner": "Admissions Open for CA / CS / CMA New Batches | Free Counseling & Demo Classes Available at Surat Campus",
+    "announcementActive": true,
+    "phone": "079843 44294",
+    "address": "2nd Floor, Kabootar Circle, AJ Classes, Aai Mata Road, Above Shopping Basti, Near Annapurna Poojan Store, Surat, Gujarat 395010, India.",
+    "businessHours": "Monday to Saturday: 8:00 AM – 8:30 PM | Sunday: 9:00 AM – 1:00 PM"
+  },
+  "adminPin": "AJ@2026"
+}
